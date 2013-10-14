@@ -4,5 +4,7 @@
     <string name="app_name">TODO-list</string>
     <string name="action_settings">Settings</string>
     <string name="hello_world">Hello world!</string>
+    <string name="addItemHint">Add new item</string>
+    <string name="addItemContentDescription">Add new Item</string>
 
 </resources>
